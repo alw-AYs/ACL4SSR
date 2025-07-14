@@ -1,0 +1,10 @@
+# NAME: Blizzard
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+payload:
+  - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,battlenet.com
+  - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,blz-contentstack.com
+  - DOMAIN-KEYWORD,bnetcms
